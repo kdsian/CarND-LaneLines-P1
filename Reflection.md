@@ -1,21 +1,13 @@
-# **Finding Lane Lines on the Road** 
-
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
+# **Finding Lane Lines on the Road**
 
 ---
 
-**Finding Lane Lines on the Road**
+## Overview
 
 The goals / steps of this project are the following:
+
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
-
-
-[//]: # (Image References)
-
-[image1]: ./examples/grayscale.jpg "Grayscale"
 
 ---
 
@@ -23,6 +15,11 @@ The goals / steps of this project are the following:
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
+pipeline은 총 9개로 구성하였습니다. 
+
+* garyscale 
+* canny
+* gaussian_blur 
 My pipeline consisted of 5 steps. First, I converted the images to grayscale, then I .... 
 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by ...
