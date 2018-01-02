@@ -16,12 +16,12 @@ The goals / steps of this project are the following:
 [image3]: ./describe/4_canny.jpg "canny"
 [image4]: ./describe/4_1canny_ex.png "canny_example"
 [image5]: ./describe/3_ROI.png "ROI"
-[image6]: ./describe/6_hough.png "6_hough"
-[image6-1]: ./describe/6_1_hough.png "6_1_hough"
-[image6-2]: ./describe/6_2_hough.png "6_2_hough"
-[image6-3]: ./describe/6_3_hough.png "6_3_hough"
-[image6-4]: ./describe/6_4_hough.png "6_4_hough"
-[image6-5]: ./describe/6_5_hough.png "6_5_hough"
+[image6]: ./describe/6_hough.PNG "6_hough"
+[image6-1]: ./describe/6_1_hough.PNG "6_1_hough"
+[image6-2]: ./describe/6_2_hough.PNG "6_2_hough"
+[image6-3]: ./describe/6_3_hough.PNG "6_3_hough"
+[image6-4]: ./describe/6_4_hough.PNG "6_4_hough"
+[image6-5]: ./describe/6_5_hough.PNG "6_5_hough"
 
 
 
