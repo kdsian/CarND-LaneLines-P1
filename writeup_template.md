@@ -8,7 +8,7 @@ The goals / steps of this project are the following:
 
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
-* 프로젝트 코드 link : [project code](https://github.com/kdsian/CarND-LaneLines-P1/blob/master/P1.ipynb)
+* 프로젝트 코드 link : [project code](https://github.com/kdsian/CarND-P1-LaneLines)
 ---
 
 [image1]: ./describe/2_grayscale_before.jpg "Gray-before"
